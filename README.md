@@ -96,7 +96,7 @@ print(me.motto())
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Suresh-P-2005&theme=tokyonight&row=1&column=7&margin-w=4)
+![Trophies](https://github-profile-trophy-winning.vercel.app/?username=Suresh-P-2005&theme=tokyonight&row=1&column=7&margin-w=4)
 
 </div>
 
