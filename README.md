@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Suresh%20P&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=CSE%20Fresher%20%7C%20Full-Stack%20Dev%20%7C%20AI%2FML%20%26%20Computer%20Vision&amp;descAlignY=62&amp;descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Suresh%20P&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20and%20Computer%20Vision&amp;descAlignY=62&amp;descSize=16"/>
 
 <div align="center">
 
@@ -96,7 +96,7 @@ print(me.motto())
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Suresh-P-2005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Suresh-P-2005&theme=tokyonight&row=1&column=7&margin-w=4)
 
 </div>
 
