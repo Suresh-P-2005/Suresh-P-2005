@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suresh%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20Fresher%20%7C%20Full-Stack%20Dev%20%7C%20AI%2FML%20%26%20Computer%20Vision&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Suresh%20P&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=CSE%20Fresher%20%7C%20Full-Stack%20Dev%20%7C%20AI%2FML%20%26%20Computer%20Vision&amp;descAlignY=62&amp;descSize=16"/>
 
 <div align="center">
 
@@ -72,10 +72,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/Suresh-P-2005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suresh-P-2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suresh-P-2005&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
 </a>
 <a href="https://github.com/Suresh-P-2005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-P-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-P-2005&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
 </a>
 
 </div>
@@ -177,4 +177,4 @@ print(me.motto())
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling"/>
