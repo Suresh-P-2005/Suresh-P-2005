@@ -96,7 +96,23 @@ print(me.motto())
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy-winning.vercel.app/?username=Suresh-P-2005&theme=tokyonight&row=1&column=7&margin-w=4)
+<!--
+  NOTE: The github-profile-trophy service (and its community mirrors) is currently
+  unreliable — the maintainer has flagged funding/server-cost issues, so the main
+  domain and several mirrors are returning errors (402/400/404) intermittently.
+  Once the service stabilizes, you can re-add a trophy image like this:
+
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Suresh-P-2005&theme=tokyonight&row=1&column=7&margin-w=4)
+
+  Alternative mirrors to try (swap the domain only):
+  - https://github-profile-trophy-tawny.vercel.app
+  - https://trophy.ryglcloud.net
+  - https://gh-trophy.cdnsoft.net
+  - https://trophygh.kolioaris.xyz
+-->
+
+![NPTEL Certification](https://img.shields.io/badge/NPTEL-Cloud_Computing_Elite-70A5FD?style=flat-square&logo=nptel&logoColor=white)
+![Research Publication](https://img.shields.io/badge/Published-ICETEMA--2K26-BF91F3?style=flat-square&logo=googlescholar&logoColor=white)
 
 </div>
 
