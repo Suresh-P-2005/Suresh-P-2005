@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Suresh%20P&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20and%20Computer%20Vision&amp;descAlignY=62&amp;descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suresh%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=62&descSize=16"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%28Frontend+%2B+Backend%29;Computer+Vision+%26+Deep+Learning+Enthusiast;Building+ISL+Recognition+with+MediaPipe+%2B+CNN;Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%26+Deep+Learning+Specialist;Building+Real-Time+Vision+Systems+with+YOLO;Deploying+Intelligent+AI+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,21 +15,21 @@ class Suresh:
         self.location = "Tamil Nadu, India"
         self.degree = "B.E. Computer Science & Engineering"
         self.college = "VV College of Engineering"
+        self.role = "AI/ML Engineer | Computer Vision Specialist"
         self.stack = [
-            "Python", "JavaScript", "HTML5", "CSS3",
-            "Flask", "TensorFlow/Keras", "OpenCV",
-            "MediaPipe", "Scikit-learn", "SQL"
+            "Python", "TensorFlow/Keras", "OpenCV",
+            "MediaPipe", "Deep Learning", "Machine Learning",
+            "FastAPI", "Flask", "SQL"
         ]
         self.currently_learning = [
             "Advanced Deep Learning",
-            "Cloud Deployment",
-            "Flutter + Firebase"
+            "MLOps & Cloud Deployment",
+            "Real-Time AI Systems"
         ]
-        self.fun_fact = "Built a hardware-free Sign Language " \
-                         "translator that speaks 11 languages!"
+        self.fun_fact = "Built a hardware-free Sign Language translator that speaks 11 languages!"
 
     def motto(self):
-        return "Code. Train. Deploy. Repeat."
+        return "Build Intelligent Systems. Train Models. Deploy at Scale."
 
 me = Suresh()
 print(me.motto())
@@ -117,7 +117,15 @@ print(me.motto())
 </div>
 
 ## 💼 Work Experience
+<details> <summary><b>AI/ML Intern @ HCLTech</b> — Jun 2026 – Present (3 Months)</summary> <br>
 
+> `Python` `Computer Vision` `Deep Learning` `FastAPI`  
+
+- Working on real-world AI/ML and Computer Vision solutions
+- Building and optimizing deep learning models for vision-based systems
+- Developing scalable FastAPI-based AI services for deployment
+- Improving inference performance and model accuracy for production systems
+</details>
 <details>
 <summary><b>Python Intern @ Entudio Pvt. Ltd</b> — Jul 2025 – Aug 2025</summary>
 <br>
@@ -149,6 +157,7 @@ print(me.motto())
 | Project | Stack | Highlights |
 |---|---|---|
 | **[Indian Sign Language Recognition & Translation](https://github.com/Suresh-P-2005)** | MediaPipe, Random Forest, CNN, BiLSTM, OpenCV, LM Studio, Web Speech API | Published at **ICETEMA-2K26** • Hardware-free ISL system extracting 126 3D coordinates • **99.8%** static sign accuracy via hybrid Random Forest + CNN fallback • 3-layer BiLSTM for dynamic signs • Offline grammar correction with local Phi-3 LLM • Text-to-speech in **11 languages** |
+| **[Automatic Number Plate Recognition (ANPR)](https://github.com/Suresh-P-2005)** | OpenCV, YOLO, OCR, Python | Real-time vehicle detection • License plate extraction using OCR • High-accuracy detection in dynamic environments |
 | **[Student Database Management System](https://github.com/Suresh-P-2005)** | Flask, SQL, HTML5, CSS3, JavaScript | Full-stack web app for secure student record management • Complete CRUD functionality (add/update/delete/search) • Clean, responsive UI optimized for fast data entry |
 
 </div>
@@ -170,7 +179,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.E. Computer Science & Engineering | VV College of Engineering | 2022 – 2026 | CGPA: 7.96 |
+| B.E. Computer Science & Engineering | VV College of Engineering | 2022 – 2026 | CGPA: 8.1 |
 | HSC | E.R.S. Higher Secondary School | 2021 – 2022 | 72.5% |
 | SSLC | E.R.S. Higher Secondary School | 2019 – 2020 | 76.8% |
 
@@ -179,9 +188,9 @@ print(me.motto())
 ## 📚 Currently Learning
 
 ```text
-🧱 Deep Learning        → Transformers, Model Optimization
-🧱 Cloud & Deployment   → Docker, CI/CD, Cloud Hosting for ML Models
-🧱 Mobile Development   → Flutter, Firebase, Cross-Platform Apps
+🧠 Advanced Deep Learning → Transformers, Optimization
+☁️ MLOps & Cloud          → Docker, CI/CD, Model Deployment
+🚀 Real-Time AI           → Scalable Vision Systems
 ```
 
 ## 📫 Connect with Me
