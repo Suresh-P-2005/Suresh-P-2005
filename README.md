@@ -6,10 +6,11 @@
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> 
+## 👨‍💻 About Me (Code Style)
 
-# 👨‍💻 About Me (Code Style)  
-
+<div align="center">
+  <img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</div>
 
 ```python
 class Suresh:
@@ -30,12 +31,14 @@ class Suresh:
             "Real-Time AI Systems"
         ]
         self.fun_fact = "Built a hardware-free Sign Language translator that speaks 11 languages!"
+
     def motto(self):
         return "Build Intelligent Systems. Train Models. Deploy at Scale."
+
+
 me = Suresh()
 print(me.motto())
 ```
-
 
 <br clear="right"/>
 
