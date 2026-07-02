@@ -68,17 +68,14 @@ print(me.motto())
 ![Web Speech API](https://img.shields.io/badge/Web_Speech_API-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<!-- Main Stats + Top Languages -->
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Suresh-P-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-P-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
-
+<a href="https://github.com/Suresh-P-2005">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suresh-P-2005&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
+</a>
+<a href="https://github.com/Suresh-P-2005">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-P-2005&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
+</a>
 </div>
-
 <div align="center">
 
 ![Streak Stats](https://streak-stats.demolab.com?user=Suresh-P-2005&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
