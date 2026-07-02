@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me (Code Style)
 
 <div align="center">
-  <img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+  <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </div>
 
 ```python
