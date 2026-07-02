@@ -8,11 +8,12 @@
 
 ## 👨‍💻 About Me (Code Style)
 
-<div align="center">
-  <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-</div>
+<table>
+<tr valign="middle">
 
-```python
+<td width="60%">
+
+<pre><code>
 class Suresh:
     def __init__(self):
         self.name = "Suresh P"
@@ -30,18 +31,25 @@ class Suresh:
             "MLOps & Cloud Deployment",
             "Real-Time AI Systems"
         ]
-        self.fun_fact = "Built a hardware-free Sign Language translator that speaks 11 languages!"
-
+        self.fun_fact = "Built a hardware-free Sign Language translator!"
+    
     def motto(self):
         return "Build Intelligent Systems. Train Models. Deploy at Scale."
 
-
 me = Suresh()
 print(me.motto())
-```
+</code></pre>
 
-<br clear="right"/>
+</td>
 
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350"/>
+
+</td>
+
+</tr>
+</table>
 
   
 ## 🛠️ Tech Stack
