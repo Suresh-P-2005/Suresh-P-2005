@@ -30,10 +30,8 @@ class Suresh:
             "Real-Time AI Systems"
         ]
         self.fun_fact = "Built a hardware-free Sign Language translator that speaks 11 languages!"
-
     def motto(self):
         return "Build Intelligent Systems. Train Models. Deploy at Scale."
-
 me = Suresh()
 print(me.motto())
 ```
