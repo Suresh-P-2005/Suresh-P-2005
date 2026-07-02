@@ -9,11 +9,11 @@
 ## 👨‍💻 About Me (Code Style)
 
 <table>
-<tr valign="middle">
+<tr>
 
-<td width="60%">
+<td width="60%" valign="top">
 
-<pre><code>
+<pre>
 class Suresh:
     def __init__(self):
         self.name = "Suresh P"
@@ -32,25 +32,24 @@ class Suresh:
             "Real-Time AI Systems"
         ]
         self.fun_fact = "Built a hardware-free Sign Language translator!"
-    
+
     def motto(self):
         return "Build Intelligent Systems. Train Models. Deploy at Scale."
 
 me = Suresh()
 print(me.motto())
-</code></pre>
+</pre>
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320"/>
 
 </td>
 
 </tr>
 </table>
-
   
 ## 🛠️ Tech Stack
 
