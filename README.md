@@ -6,7 +6,7 @@
 
 </div>
 
-## 👨‍💻 About Me (Code Style)
+## 👨‍💻 About Me 
 
 <table>
 <tr>
