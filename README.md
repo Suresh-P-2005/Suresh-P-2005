@@ -13,32 +13,17 @@
 
 <td width="60%" valign="top">
 
-<pre>
-class Suresh:
-    def __init__(self):
-        self.name = "Suresh P"
-        self.location = "Tamil Nadu, India"
-        self.degree = "B.E. Computer Science & Engineering"
-        self.college = "VV College of Engineering"
-        self.role = "AI/ML Engineer | Computer Vision Specialist"
-        self.stack = [
-            "Python", "TensorFlow/Keras", "OpenCV",
-            "MediaPipe", "Deep Learning", "Machine Learning",
-            "FastAPI", "Flask", "SQL"
-        ]
-        self.currently_learning = [
-            "Advanced Deep Learning",
-            "MLOps & Cloud Deployment",
-            "Real-Time AI Systems"
-        ]
-        self.fun_fact = "Built a hardware-free Sign Language translator!"
+- 🎓 B.E. Computer Science & Engineering (2022–2026)  
+- 📍 Tamil Nadu, India  
 
-    def motto(self):
-        return "Build Intelligent Systems. Train Models. Deploy at Scale."
+- 💡 Focused on **AI/ML & Computer Vision**
+- 🧠 Strong in **Deep Learning, OpenCV, Model Optimization**
+- ⚙️ Build **real-time AI systems with deployment-ready APIs**
+- 🚀 Interested in **MLOps, scalable AI, and production systems**
 
-me = Suresh()
-print(me.motto())
-</pre>
+- 🌍 Built a **Sign Language Translator (11 languages, real-time)**
+- 🎯 Goal: *Build Intelligent Systems. Train Models. Deploy at Scale.*
+
 
 </td>
 
