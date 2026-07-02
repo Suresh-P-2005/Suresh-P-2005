@@ -71,11 +71,11 @@ print(me.motto())
 
 <div align="center">
 
-<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Suresh-P-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-P-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/> </p>
+<!-- Main Stats + Top Languages -->
 
-<a href="https://github.com/Suresh-P-2005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-P-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400"/>
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Suresh-P-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-P-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
 
 </div>
 
