@@ -71,9 +71,7 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/Suresh-P-2005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suresh-P-2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=86400"/>
-</a>
+<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Suresh-P-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-P-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/> </p>
 
 <a href="https://github.com/Suresh-P-2005">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-P-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400"/>
@@ -157,9 +155,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Indian Sign Language Recognition & Translation](https://github.com/Suresh-P-2005)** | MediaPipe, Random Forest, CNN, BiLSTM, OpenCV, LM Studio, Web Speech API | Published at **ICETEMA-2K26** • Hardware-free ISL system extracting 126 3D coordinates • **99.8%** static sign accuracy via hybrid Random Forest + CNN fallback • 3-layer BiLSTM for dynamic signs • Offline grammar correction with local Phi-3 LLM • Text-to-speech in **11 languages** |
-| **[Automatic Number Plate Recognition (ANPR)](https://github.com/Suresh-P-2005)** | OpenCV, YOLO, OCR, Python | Real-time vehicle detection • License plate extraction using OCR • High-accuracy detection in dynamic environments |
-| **[Student Database Management System](https://github.com/Suresh-P-2005)** | Flask, SQL, HTML5, CSS3, JavaScript | Full-stack web app for secure student record management • Complete CRUD functionality (add/update/delete/search) • Clean, responsive UI optimized for fast data entry |
+| **[Indian Sign Language Recognition & Translation](https://github.com/Suresh-P-2005/ISL)** | MediaPipe, Random Forest, CNN, BiLSTM, OpenCV, LM Studio, Web Speech API | Published at **ICETEMA-2K26** • Hardware-free ISL system extracting 126 3D coordinates • **95.8%** static sign accuracy via hybrid Random Forest + CNN fallback • 3-layer BiLSTM for dynamic signs • Offline grammar correction with local Phi-3 LLM • Text-to-speech in **11 languages** |
+| **[Automatic Number Plate Recognition (ANPR)](https://github.com/Suresh-P-2005/Automatic_Number_Plate_Recognition)** | OpenCV, YOLO, OCR, Python | Real-time vehicle detection • License plate extraction using OCR • High-accuracy detection in dynamic environments |
+
 
 </div>
 
