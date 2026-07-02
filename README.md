@@ -8,7 +8,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
+
 class Suresh:
     def __init__(self):
         self.name = "Suresh P"
@@ -33,7 +33,6 @@ class Suresh:
 
 me = Suresh()
 print(me.motto())
-```
 
 <br clear="right"/>
 
