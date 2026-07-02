@@ -9,6 +9,9 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 
+## 👨‍💻 About Me (Code Style)
+
+```python
 class Suresh:
     def __init__(self):
         self.name = "Suresh P"
@@ -33,6 +36,12 @@ class Suresh:
 
 me = Suresh()
 print(me.motto())
+```
+
+```bash
+Build Intelligent Systems. Train Models. Deploy at Scale.
+```
+
 
 <br clear="right"/>
 
