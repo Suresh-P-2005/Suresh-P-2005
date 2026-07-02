@@ -38,10 +38,6 @@ me = Suresh()
 print(me.motto())
 ```
 
-```bash
-Build Intelligent Systems. Train Models. Deploy at Scale.
-```
-
 
 <br clear="right"/>
 
