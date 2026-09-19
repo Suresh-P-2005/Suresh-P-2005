@@ -68,7 +68,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-P-2005&layout=compact&theme=tokyonight&hide_border=true"/>
+ <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Suresh-P-2005&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 <div align="center">
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suresh-P-2005&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+![Activity Graph](https://readme-activity-graph.vercel.app/graph?username=Suresh-P-2005&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
 
@@ -128,17 +128,7 @@
 
 </details>
 
-<details>
-<summary><b>Mobile App Dev Intern @ Hicup Innovations</b> — May 2025 – June 2025</summary>
-<br>
 
-> `Flutter` `Firebase` `Mobile Development`
-
-- Developed Flutter frontend interfaces for cross-platform mobile applications
-- Integrated Firebase for real-time database management
-- Worked across the app lifecycle from UI design to backend connectivity
-
-</details>
 
 ## 🚀 Featured Projects
 
@@ -148,6 +138,8 @@
 |---|---|---|
 | **[Indian Sign Language Recognition & Translation](https://github.com/Suresh-P-2005/ISL)** | MediaPipe, Random Forest, CNN, BiLSTM, OpenCV, LM Studio, Web Speech API | Published at **ICETEMA-2K26** • Hardware-free ISL system extracting 126 3D coordinates • **95.8%** static sign accuracy via hybrid Random Forest + CNN fallback • 3-layer BiLSTM for dynamic signs • Offline grammar correction with local Phi-3 LLM • Text-to-speech in **11 languages** |
 | **[Automatic Number Plate Recognition (ANPR)](https://github.com/Suresh-P-2005/Automatic_Number_Plate_Recognition)** | OpenCV, YOLO, OCR, Python | Real-time vehicle detection • License plate extraction using OCR • High-accuracy detection in dynamic environments |
+| **[Gourmet AI Recipe Generator](https://github.com/Suresh-P-2005/Gourmet_AI)** | FastAPI, Gemini 2.0 Flash, Gemini Vision, Web Speech API | AI-powered recipe generation • Camera ingredient detection • Voice input using Web Speech API • Premium Glassmorphism UI |
+| **[Real-Time PPE Detection System](https://github.com/Suresh-P-2005/Real-Time-PPE-Detection-System)** | FastAPI, YOLOv8, PyTorch, OpenCV, Three.js | Real-time multi-input inference • Identifies missing Personal Protective Equipment (PPE) • High-performance pipeline with FP16 tensor inference • Interactive HUD |
 
 
 </div>
