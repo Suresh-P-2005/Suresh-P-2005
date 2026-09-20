@@ -6,7 +6,7 @@
 
 </div>
 
-## 👨‍💻 About Me 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="35" height="35" /> About Me 
 
 <table>
 <tr>
@@ -36,37 +36,25 @@
 </tr>
 </table>
   
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Tech Stack
 
-**Languages**
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,tensorflow,opencv,flask,fastapi,mysql,git,vscode&theme=dark" />
+  </a>
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br>
 
-**AI / ML**
+<div align="center">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/LM_Studio-6C5CE7?style=for-the-badge&logo=ai&logoColor=white" alt="LM Studio" />
+  <img src="https://img.shields.io/badge/Web_Speech_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Speech API" />
+</div>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-
-**Backend**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM_Studio-6C5CE7?style=flat-square&logo=ai&logoColor=white)
-![Web Speech API](https://img.shields.io/badge/Web_Speech_API-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats
 <div align="center">
  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Suresh-P-2005&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
@@ -82,7 +70,7 @@
 
 </div>
 
-## 🏆 Trophy Wall
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" /> Trophy Wall
 
 <div align="center">
 
@@ -102,11 +90,11 @@
 -->
 
 ![NPTEL Certification](https://img.shields.io/badge/NPTEL-Cloud_Computing_Elite-70A5FD?style=flat-square&logo=nptel&logoColor=white)
-![Research Publication](https://img.shields.io/badge/Published-ICETEMA--2K26-BF91F3?style=flat-square&logo=googlescholar&logoColor=white)
+![Research Publication](https://img.shields.io/badge/Published-JUCCT-BF91F3?style=flat-square&logo=googlescholar&logoColor=white)
 
 </div>
 
-## 💼 Work Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" /> Work Experience
 <details> <summary><b>AI/ML Intern @ HCLTech</b> — Jun 2026 – Present (3 Months)</summary> <br>
 
 > `Python` `Computer Vision` `Deep Learning` `FastAPI`  
@@ -130,32 +118,31 @@
 
 
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Projects
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **[Indian Sign Language Recognition & Translation](https://github.com/Suresh-P-2005/ISL)** | MediaPipe, Random Forest, CNN, BiLSTM, OpenCV, LM Studio, Web Speech API | Published at **ICETEMA-2K26** • Hardware-free ISL system extracting 126 3D coordinates • **95.8%** static sign accuracy via hybrid Random Forest + CNN fallback • 3-layer BiLSTM for dynamic signs • Offline grammar correction with local Phi-3 LLM • Text-to-speech in **11 languages** |
-| **[Automatic Number Plate Recognition (ANPR)](https://github.com/Suresh-P-2005/Automatic_Number_Plate_Recognition)** | OpenCV, YOLO, OCR, Python | Real-time vehicle detection • License plate extraction using OCR • High-accuracy detection in dynamic environments |
-| **[Gourmet AI Recipe Generator](https://github.com/Suresh-P-2005/Gourmet_AI)** | FastAPI, Gemini 2.0 Flash, Gemini Vision, Web Speech API | AI-powered recipe generation • Camera ingredient detection • Voice input using Web Speech API • Premium Glassmorphism UI |
-| **[Real-Time PPE Detection System](https://github.com/Suresh-P-2005/Real-Time-PPE-Detection-System)** | FastAPI, YOLOv8, PyTorch, OpenCV, Three.js | Real-time multi-input inference • Identifies missing Personal Protective Equipment (PPE) • High-performance pipeline with FP16 tensor inference • Interactive HUD |
-
+| Project | Highlights & Details |
+| :---: | :--- |
+| <a href="https://github.com/Suresh-P-2005/ISL"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Suresh-P-2005&repo=ISL&theme=tokyonight" width="400" /></a> | Published in **Journal of Ubiquitous Computing and Communication Technologies**<br><br>• Hardware-free ISL system extracting 126 3D coordinates<br>• **95.8%** static sign accuracy via hybrid Random Forest + CNN fallback<br>• 3-layer BiLSTM for dynamic signs<br>• Offline grammar correction with local Phi-3 LLM<br>• Text-to-speech in **11 languages** |
+| <a href="https://github.com/Suresh-P-2005/Automatic_Number_Plate_Recognition"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Suresh-P-2005&repo=Automatic_Number_Plate_Recognition&theme=tokyonight" width="400" /></a> | • Real-time vehicle detection<br>• License plate extraction using OCR<br>• High-accuracy detection in dynamic environments |
+| <a href="https://github.com/Suresh-P-2005/Gourmet_AI"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Suresh-P-2005&repo=Gourmet_AI&theme=tokyonight" width="400" /></a> | • AI-powered recipe generation<br>• Camera ingredient detection<br>• Voice input using Web Speech API<br>• Premium Glassmorphism UI |
+| <a href="https://github.com/Suresh-P-2005/Real-Time-PPE-Detection-System"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Suresh-P-2005&repo=Real-Time-PPE-Detection-System&theme=tokyonight" width="400" /></a> | • Real-time multi-input inference<br>• Identifies missing Personal Protective Equipment (PPE)<br>• High-performance pipeline with FP16 tensor inference<br>• Interactive HUD |
 
 </div>
 
-## 🏅 Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="35" height="35" /> Achievements
 
 <div align="center">
 
 | 🏆 | Achievement | Details |
 |---|---|---|
 | 🎓 | **NPTEL Cloud Computing — Elite Certificate** | IIT Kharagpur • Scored **75%** |
-| 📄 | **Research Publication** | Indian Sign Language Recognition system published at **ICETEMA-2K26** |
+| 📄 | **Research Publication** | Indian Sign Language Recognition system published in **Journal of Ubiquitous Computing and Communication Technologies** |
 
 </div>
 
-## 🎓 Education
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="35" height="35" /> Education
 
 <div align="center">
 
@@ -167,7 +154,7 @@
 
 </div>
 
-## 📚 Currently Learning
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="35" height="35" /> Currently Learning
 
 ```text
 🧠 Advanced Deep Learning → Transformers, Optimization
@@ -175,12 +162,15 @@
 🚀 Real-Time AI           → Scalable Vision Systems
 ```
 
-## 📫 Connect with Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Postbox" width="35" height="35" /> Connect with Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sureshreigns220@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2005-suresh-p/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshreigns220@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2005-suresh-p/)
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=Suresh-P-2005&color=70A5FD&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Badge"/>
 
 </div>
 
