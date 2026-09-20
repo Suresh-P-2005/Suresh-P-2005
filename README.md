@@ -70,6 +70,12 @@
 
 </div>
 
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="3D Hologram Animation" />
+</div>
+<br>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" /> Trophy Wall
 
 <div align="center">
@@ -95,7 +101,7 @@
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" /> Work Experience
-<details> <summary><b>AI/ML Intern @ HCLTech</b> — Jun 2026 – Present (3 Months)</summary> <br>
+<details> <summary><b>AI/ML Intern @ HCLTech</b> — 8th Jun 2026 – 8th Sep 2026 (3 Months)</summary> <br>
 
 > `Python` `Computer Vision` `Deep Learning` `FastAPI`  
 
@@ -105,7 +111,7 @@
 - Improving inference performance and model accuracy for production systems
 </details>
 <details>
-<summary><b>Python Intern @ Entudio Pvt. Ltd</b> — Jul 2025 – Aug 2025</summary>
+<summary><b>Python Intern @ Entudio Pvt. Ltd</b> — Jul 2025 (1 Month)</summary>
 <br>
 
 > `Python` `Flask` `REST APIs` `JSON`
@@ -156,11 +162,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="35" height="35" /> Currently Learning
 
-```text
-🧠 Advanced Deep Learning → Transformers, Optimization
-☁️ MLOps & Cloud          → Docker, CI/CD, Model Deployment
-🚀 Real-Time AI           → Scalable Vision Systems
-```
+- 🧠 **Advanced Deep Learning** - ![Transformers](https://img.shields.io/badge/-Transformers-orange?style=flat-square) ![Optimization](https://img.shields.io/badge/-Optimization-blue?style=flat-square)
+- ☁️ **MLOps & Cloud** - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-4CAF50?style=flat-square) ![Model Deployment](https://img.shields.io/badge/-Model_Deployment-8A2BE2?style=flat-square)
+- 🚀 **Real-Time AI** - ![Scalable Vision Systems](https://img.shields.io/badge/-Scalable_Vision_Systems-red?style=flat-square)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Postbox" width="35" height="35" /> Connect with Me
 
